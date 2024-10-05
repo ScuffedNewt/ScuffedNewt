@@ -1,5 +1,5 @@
 # ScuffedNewt | Tara
-Hi! My name's Tara, I'm a third-year DCU Computer Science student. Most of my contributions to GitHub are in private repositories, but I hope to create more public projects soon.
+Hi! My name's Tara, I'm a fourth-year DCU Computer Science student. Most of my contributions to GitHub are in private repositories, but I hope to create more public projects soon.
 
 You can reach me on discord (scuffednewt) or via [email](mailto:t.a.greenwood03@gmail.com).
 
